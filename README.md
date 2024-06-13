@@ -1,5 +1,8 @@
 # Installation
 
+## The original code is cloned from Darlington's repo - Check out the code here: https://github.com/Darlington02/muaccra-workshop.git
+
+
 ## Scarb
 Linux & macOS - `curl --proto '=https' --tlsv1.2 -sSf https://docs.swmansion.com/scarb/install.sh | sh`
 
